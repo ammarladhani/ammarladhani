@@ -1,5 +1,8 @@
 # Ammar Ladhani
-[Insert a brief description of yourself here. This could include your job title, your skills and expertise, and any notable achievements.]
+Hey there! 
+My name is Ammar and I am a software developer based in Atlanta and Chicago. 
+I love using technology to build innovative solutions and I am always on the lookout for new and exciting projects to work on. With a background in many different programming languages and technologies, I have a knack for creating clean and user-friendly code. 
+In my free time, I enjoy playing chess, helping out my community, listening to rock music, playing volleyball, and staying up-to-date on the latest trends in the tech world. I pride myself on being a creative and hardworking individual who is always looking for new ways to push the boundaries of what is possible.
 
 ## Table of Contents
 - [About](#About)
